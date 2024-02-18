@@ -1,4 +1,4 @@
-![Header](https://github.com/VsevolodYatsuk/VsevolodYatsuk/blob/main/assets/gif.gif)
+![Header](https://github.com/VsevolodYatsuk/VsevolodYatsuk/blob/main/asstest/gif.gif?raw=true)
 
 ## .NET Программист из России. Занимаюсь full-stuck разработкой веб приложений, а так же их QA/QC тестированием.
 
@@ -17,10 +17,3 @@ Languages and Tool <br>
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
-https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green
-
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
-
-
-Follow Me

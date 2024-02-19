@@ -1,6 +1,6 @@
 ![Header](https://github.com/VsevolodYatsuk/VsevolodYatsuk/blob/main/asstest/gif.gif?raw=true)
 
-## .NET Программист из России. Занимаюсь full-stuck разработкой веб приложений, а так же их QA/QC тестированием.
+## .NET Программист из России. Занимаюсь full-stuck разработкой веб приложений, а так же их QA тестированием.
 
 Languages and Tool <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
